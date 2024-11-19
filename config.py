@@ -14,7 +14,7 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "BQG_y90AAsCXEWwUCRXPY2EV8KRRV
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "SihagBots")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002386658352"))
 
 
